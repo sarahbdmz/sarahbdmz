@@ -1,4 +1,10 @@
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/sarahbdmz/sarahbdmz/main/banner.png"
+    width="100%"
+    alt="Sara Abdmeziem - AI Engineer"
+  />
+</p>
 <div align="center">
 
 # Sara Abdmeziem
